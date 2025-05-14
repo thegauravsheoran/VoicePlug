@@ -9,8 +9,8 @@
     ```
 
 - **Download the ZIP folder:**
-    Alternatively, you can download the project as a ZIP folder from [Google Drive](#) (replace `#` with the actual link).  
-    Extract the folder and open it in Visual Studio Code.
+    Alternatively, you can download the project as a ZIP folder from Google Drive. 
+    Extract the folder anywhere, locate the folder and open it in Visual Studio Code.
 
 - **Install dependencies:**
     ```bash
